@@ -2,7 +2,7 @@
 
 🧒 - O meu nome é Matheus, tenho 18 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile, fazendo disso um grande hobbie enquanto procuro uma vaga na área.  
   
-📚 - Atualmente tenho estudado tecnologias como NodeJs, React e ReactNative, todas elas com um grande empurrão da [Rocketseat](https://github.com/Rocketseat), que me fizeram perceber que essa era a stack ideal para mim, e a qual eu mais me identificava.  
+📚 - Atualmente tenho estudado tecnologias como NodeJs, React e ReactNative, todas elas com um grande empurrão do pessoal da [Rocketseat](https://github.com/Rocketseat), que me fizeram perceber que essa era a stack ideal para mim, e a qual eu mais me identificava.  
   
 🚀 - Tenho trabalhado em alguns projetos pessoais, como o do [Dragon Age](https://github.com/TheusFacin/dragon-age-sheet), que é basicamente um programa onde o jogador pode criar e gerenciar as fichas de seus personagens.  
   
