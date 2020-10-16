@@ -4,7 +4,7 @@
   
 📚 - Atualmente tenho estudado tecnologias como NodeJs, React e ReactNative, todas elas com um grande empurrão do pessoal da [Rocketseat](https://github.com/Rocketseat), que me fizeram perceber que essa era a stack ideal para mim, e a qual eu mais me identificava.  
   
-🚀 - Tenho trabalhado em alguns projetos pessoais, como o do [Dragon Age](https://github.com/TheusFacin/dragon-age-sheet), que é basicamente um programa onde o jogador pode criar e gerenciar as fichas de seus personagens.  
+🚀 - Tenho trabalhado em alguns projetos pessoais, como um app que te permite organizar suas marcações de livros e outro para você anotar o que te fez feliz no dia para ver quando estiver triste. Ambos estão em desenvolvimento e pretendo colocá-los aqui nos próximos dias.  
   
 👨‍🎓 - Faço faculdade de Física no Instituto Federal de São Paulo e também um técnico em Redes de Computadores na Etec Professor Horácio. Também me formei como técnico em Informática, como já citei.
   
