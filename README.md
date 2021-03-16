@@ -1,14 +1,14 @@
 ### Muito Bom Dia 👋
 
-🧒 - O meu nome é Matheus, tenho 18 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile, fazendo disso um grande hobbie enquanto procuro uma vaga na área.  
+🧒 - O meu nome é Matheus, tenho 19 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile, fazendo disso um grande hobbie enquanto procuro uma vaga na área.  
   
 📚 - Atualmente tenho estudado tecnologias como NodeJs, React e ReactNative, todas elas com um grande empurrão do pessoal da [Rocketseat](https://github.com/Rocketseat), que me fizeram perceber que essa era a stack ideal para mim, e a qual eu mais me identificava.  
   
-🚀 - Tenho trabalhado em alguns projetos pessoais, como um app que te permite organizar suas marcações de livros e outro para você anotar o que te fez feliz no dia para ver quando estiver triste. Ambos estão em desenvolvimento e pretendo colocá-los aqui nos próximos dias.  
+🚀 - Meu projeto de maior orgulho é o player de músicas Waves Music, cujo repositório é [esse aqui](https://github.com/TheusFacin/Waves-Music), e o projeto em produção pode ser acessado [aqui](http://www.wavesmusic.tk.s3-website-sa-east-1.amazonaws.com/).  
   
-👨‍🎓 - Faço faculdade de Física no Instituto Federal de São Paulo e também um técnico em Redes de Computadores na Etec Professor Horácio. Também me formei como técnico em Informática, como já citei.
+👨‍🎓 - Faço faculdade de Segurança da Informação na Fatec São Caetano do Sul e também um EAD de Engenharia de Computação na Unisa. Também me formei como técnico em Informática, como já citei.
   
-✉ - Se você quiser falar comigo, pode me mandar um e-mail em matheus.facin@outlook.com, que certamente vou te responder. Não sou muito ativo nas redes sociais, então não vou colocá-las aqui.  
+📫 - Se você quiser falar comigo, pode me mandar um e-mail em [matheus.facin@outlook.com](mailto:matheus.facin@outlook.com), que certamente vou te responder. Não sou muito ativo nas redes sociais, mas você pode acessar meu instagram por [aqui](https://www.instagram.com/theus.facin/).  
 
 <!--
 **TheusFacin/TheusFacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
