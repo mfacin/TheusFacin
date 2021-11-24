@@ -2,11 +2,13 @@
 
 🧒 - O meu nome é Matheus, tenho 19 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile, fazendo disso um grande hobbie enquanto procuro uma vaga na área.  
   
+💻 - Trabalho com muito orgulho como estagiário de segurança da informação na Embraer, a terceira maior fabricantes de jatos comerciais do mundo, onde estou desenvolvendo as minhas habilidades na área.
+  
+👨‍🎓 - Faço faculdade de Segurança da Informação na Fatec São Caetano do Sul e também um EAD de Engenharia de Computação na Unisa. Também me formei como técnico em Informática, como já citei.
+  
 📚 - Atualmente tenho estudado tecnologias como NodeJs, React e ReactNative, todas elas com um grande empurrão do pessoal da [Rocketseat](https://github.com/Rocketseat), que me fizeram perceber que essa era a stack ideal para mim, e a qual eu mais me identificava.  
   
 🚀 - Meu projeto de maior orgulho é o player de músicas Waves Music, cujo repositório é [esse aqui](https://github.com/TheusFacin/Waves-Music), e o projeto em produção pode ser acessado [aqui](http://www.wavesmusic.tk.s3-website-sa-east-1.amazonaws.com/).  
-  
-👨‍🎓 - Faço faculdade de Segurança da Informação na Fatec São Caetano do Sul e também um EAD de Engenharia de Computação na Unisa. Também me formei como técnico em Informática, como já citei.
   
 📫 - Se você quiser falar comigo, pode me mandar um e-mail em [matheus.facin@outlook.com](mailto:matheus.facin@outlook.com), que certamente vou te responder. Não sou muito ativo nas redes sociais, mas você pode acessar meu instagram por [aqui](https://www.instagram.com/theus.facin/).  
 
