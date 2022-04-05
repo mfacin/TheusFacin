@@ -1,6 +1,6 @@
 ### Muito Bom Dia 👋
 
-🧒 - O meu nome é Matheus, tenho 19 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile, fazendo disso um grande hobbie enquanto procuro uma vaga na área.  
+🧒 - O meu nome é Matheus, tenho 20 anos, e programo desde 2018 quando comecei meu técnico em Informática na Etec de Itaquera. Desde lá eu tenho dedicado grande parte do meu tempo para estudar desenvolvimento web e mobile. Hoje a minha dedicação está em segurança da informação, com foco na área de hacking.
   
 💻 - Trabalho com muito orgulho como estagiário de segurança da informação na Embraer, a terceira maior fabricantes de jatos comerciais do mundo, onde estou desenvolvendo as minhas habilidades na área.
   
